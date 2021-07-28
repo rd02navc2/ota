@@ -136,7 +136,7 @@ server.listen(PORT);
 ,,,
 
 
-
+http://localhost:3000/update_info?versionName=v01
 
 
 
